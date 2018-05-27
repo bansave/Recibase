@@ -1,0 +1,41 @@
+/* .img-thumbnail{
+  border: 1px solid grey;
+  background: grey
+}
+.pick{
+  background-color: grey;
+}
+body{
+  font-family: 'PT Serif', serif;
+  margin: 0;
+}
+ol {
+  padding: 1;
+}
+
+#user{
+  
+  border-radius: 50%;
+  width: 100px;
+  border: 1px solid grey;
+  background: grey;
+  padding: 5px;
+  width: 150px;
+}
+.icon{
+  border-radius: 50%;
+  width: 50px;
+  padding-left: 10px;
+}
+div div div{
+  padding-top: 1rem;
+  margin-left: 10rem;
+  font-size: 20px;
+}
+div div .isi{
+  height: 80rem;
+} */
+
+body{
+  background-color: #fff5ef;
+}
